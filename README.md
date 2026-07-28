@@ -124,7 +124,7 @@ React • Tailwind CSS
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy8220&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-saha1&theme=tokyonight"/>
 </p>
 
 ---
